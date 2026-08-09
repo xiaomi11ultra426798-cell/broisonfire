@@ -1,2 +1,14 @@
-[]
-json
+[
+  {
+    "key": "CXS-DC91-4ABD-4176",
+    "status": "active"
+  },
+  {
+    "key": "CXS-9999-AAAA-BBBB",
+    "status": "active"
+  },
+  {
+    "key": "CXS-1234-5678-9000",
+    "status": "active"
+  }
+]
